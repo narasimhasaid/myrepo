@@ -3,6 +3,3 @@ peter
 steve
 nat
 --------------
-ironman
-cap
-spidy
